@@ -1,4 +1,4 @@
-#Desde la carpeta starter-code abrir terminal y ejecutar:
+# Desde la carpeta starter-code abrir terminal y ejecutar:
 
 ## npm init
 ## npm install --save ejs
